@@ -1,5 +1,4 @@
-<?php
-
+<php?
 use App\Models\Tarea;
 use Illuminate\Http\Request;
 
